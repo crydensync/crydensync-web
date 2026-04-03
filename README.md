@@ -66,3 +66,4 @@ We welcome contributions! Please:
 MIT © [CrydenSync](https://github.com/crydensync)
 
 **This is open source software. Use it freely, modify it, share it.**
+
